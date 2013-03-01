@@ -1,0 +1,608 @@
+<types>
+<type mime="application/andrew-inset" ext="ez" />
+<type mime="application/atom+xml" ext="atom" />
+<type mime="application/atomcat+xml" ext="atomcat" />
+<type mime="application/atomsvc+xml" ext="atomsvc" />
+<type mime="application/auth-policy+xml" ext="apxml" />
+<type mime="application/ccxml+xml" ext="ccxml" />
+<type mime="application/cellml+xml" ext="cellml cml" />
+<type mime="application/cpl+xml" ext="cpl" />
+<type mime="application/davmount+xml" ext="davmount" />
+<type mime="application/dicom" ext="dcm" />
+<type mime="application/dvcs" ext="dvc" />
+<type mime="application/fastinfoset" ext="finf" />
+<type mime="application/font-tdpfr" ext="pfr" />
+<type mime="application/hyperstudio" ext="stk" />
+<type mime="application/json" ext="json" />
+<type mime="application/lost+xml" ext="lostxml" />
+<type mime="application/mac-binhex40" ext="hqx" />
+<type mime="application/mac-compactpro" ext="cpt" />
+<type mime="application/marc" ext="mrc" />
+<type mime="application/mathematica" ext="nb ma mb" />
+<type mime="application/mbox" ext="mbox" />
+<type mime="application/msword" ext="doc" />
+<type mime="application/mxf" ext="mxf" />
+<type mime="application/ocsp-request" ext="orq" />
+<type mime="application/ocsp-response" ext="ors" />
+<type mime="application/octet-stream" ext="bin lha lzh exe class so dll img iso" />
+<type mime="application/oda" ext="oda" />
+<type mime="application/oebps-package+xml" ext="opf" />
+<type mime="application/ogg" ext="ogx" />
+<type mime="application/patch-ops-error+xml" ext="xer" />
+<type mime="application/pdf" ext="pdf" />
+<type mime="application/pgp-signature" ext="sig" />
+<type mime="application/pkcs10" ext="p10" />
+<type mime="application/pkcs7-mime" ext="p7m p7c" />
+<type mime="application/pkcs7-signature" ext="p7s" />
+<type mime="application/pkix-cert" ext="cer" />
+<type mime="application/pkix-crl" ext="crl" />
+<type mime="application/pkix-pkipath" ext="pkipath" />
+<type mime="application/pls+xml" ext="pls" />
+<type mime="application/postscript" ext="ai eps ps" />
+<type mime="application/prs.cww" ext="cw cww" />
+<type mime="application/prs.nprend" ext="rnd rct" />
+<type mime="application/rdf+xml" ext="rdf" />
+<type mime="application/reginfo+xml" ext="rif" />
+<type mime="application/relax-ng-compact-syntax" ext="rnc" />
+<type mime="application/resource-lists-diff+xml" ext="rld" />
+<type mime="application/resource-lists+xml" ext="rl" />
+<type mime="application/rls-services+xml" ext="rs" />
+<type mime="application/rtf" ext="rtf" />
+<type mime="application/scvp-cv-request" ext="scq" />
+<type mime="application/scvp-cv-response" ext="scs" />
+<type mime="application/scvp-vp-request" ext="spq" />
+<type mime="application/scvp-vp-response" ext="spp" />
+<type mime="application/sdp" ext="sdp" />
+<type mime="application/sgml-open-catalog" ext="soc" />
+<type mime="application/shf+xml" ext="shf" />
+<type mime="application/sieve" ext="siv sieve" />
+<type mime="application/simple-filter+xml" ext="cl" />
+<type mime="application/smil" ext="smil smi sml" />
+<type mime="application/sparql-query" ext="rq" />
+<type mime="application/sparql-results+xml" ext="srx" />
+<type mime="application/srgs" ext="gram" />
+<type mime="application/srgs+xml" ext="grxml" />
+<type mime="application/ssml+xml" ext="ssml" />
+<type mime="application/timestamp-query" ext="tsq" />
+<type mime="application/timestamp-reply" ext="tsr" />
+<type mime="application/vnd.3gpp.pic-bw-large" ext="plb" />
+<type mime="application/vnd.3gpp.pic-bw-small" ext="psb" />
+<type mime="application/vnd.3gpp.pic-bw-var" ext="pvb" />
+<type mime="application/vnd.3gpp2.sms" ext="sms" />
+<type mime="application/vnd.3gpp2.tcap" ext="tcap" />
+<type mime="application/vnd.3M.Post-it-Notes" ext="pwn" />
+<type mime="application/vnd.accpac.simply.aso" ext="aso" />
+<type mime="application/vnd.accpac.simply.imp" ext="imp" />
+<type mime="application/vnd.acucobol" ext="acu" />
+<type mime="application/vnd.acucorp" ext="atc acutc" />
+<type mime="application/vnd.adobe.xdp+xml" ext="xdp" />
+<type mime="application/vnd.adobe.xfdf" ext="xfdf" />
+<type mime="application/vnd.americandynamics.acc" ext="acc" />
+<type mime="application/vnd.amiga.ami" ext="ami" />
+<type mime="application/vnd.anser-web-certificate-issue-initiation" ext="cii" />
+<type mime="application/vnd.antix.game-component" ext="atx" />
+<type mime="application/vnd.apple.installer+xml" ext="dist distz pkg mpkg" />
+<type mime="application/vnd.arastra.swi" ext="swi" />
+<type mime="application/vnd.audiograph" ext="aep" />
+<type mime="application/vnd.autopackage" ext="package" />
+<type mime="application/vnd.blueice.multipass" ext="mpm" />
+<type mime="application/vnd.bmi" ext="bmi" />
+<type mime="application/vnd.businessobjects" ext="rep" />
+<type mime="application/vnd.cendio.thinlinc.clientconf" ext="tlclient" />
+<type mime="application/vnd.chemdraw+xml" ext="cdxml" />
+<type mime="application/vnd.chipnuts.karaoke-mmd" ext="mmd" />
+<type mime="application/vnd.cinderella" ext="cdy" />
+<type mime="application/vnd.claymore" ext="cla" />
+<type mime="application/vnd.clonk.c4group" ext="c4g c4d c4f c4p c4u" />
+<type mime="application/vnd.commerce-battelle" ext="ica icf icd ic0 ic1 ic2 ic3 ic4 ic5 ic6 ic7 ic8" />
+<type mime="application/vnd.commonspace" ext="csp cst" />
+<type mime="application/vnd.contact.cmsg" ext="cdbcmsg" />
+<type mime="application/vnd.cosmocaller" ext="cmc" />
+<type mime="application/vnd.crick.clicker" ext="clkx" />
+<type mime="application/vnd.crick.keyboard" ext="clkk" />
+<type mime="application/vnd.crick.palette" ext="clkp" />
+<type mime="application/vnd.crick.template" ext="clkt" />
+<type mime="application/vnd.crick.wordbank" ext="clkw" />
+<type mime="application/vnd.criticaltools.wbs+xml" ext="wbs" />
+<type mime="application/vnd.ctc-posml" ext="pml" />
+<type mime="application/vnd.cups-ppd" ext="ppd" />
+<type mime="application/vnd.curl" ext="curl" />
+<type mime="application/vnd.data-vision.rdz" ext="rdz" />
+<type mime="application/vnd.denovo.fcselayout-link" ext="fe_launch" />
+<type mime="application/vnd.dna" ext="dna" />
+<type mime="application/vnd.dpgraph" ext="dpg mwc dpgraph" />
+<type mime="application/vnd.dreamfactory" ext="dfac" />
+<type mime="application/vnd.ecowin.chart" ext="mag" />
+<type mime="application/vnd.enliven" ext="nml" />
+<type mime="application/vnd.epson.esf" ext="esf" />
+<type mime="application/vnd.epson.msf" ext="msf" />
+<type mime="application/vnd.epson.quickanime" ext="qam" />
+<type mime="application/vnd.epson.salt" ext="slt" />
+<type mime="application/vnd.epson.ssf" ext="ssf" />
+<type mime="application/vnd.ericsson.quickcall" ext="qcall qca" />
+<type mime="application/vnd.eszigno3+xml" ext="es3 et3" />
+<type mime="application/vnd.ezpics-album" ext="ez2" />
+<type mime="application/vnd.ezpics-package" ext="ez3" />
+<type mime="application/vnd.fdf" ext="fdf" />
+<type mime="application/vnd.FloGraphIt" ext="gph" />
+<type mime="application/vnd.fluxtime.clip" ext="ftc" />
+<type mime="application/vnd.font-fontforge-sfd" ext="sfd" />
+<type mime="application/vnd.framemaker" ext="fm" />
+<type mime="application/vnd.frogans.fnc" ext="fnc" />
+<type mime="application/vnd.frogans.ltf" ext="ltf" />
+<type mime="application/vnd.fsc.weblaunch" ext="fsc" />
+<type mime="application/vnd.fujitsu.oasys" ext="oas" />
+<type mime="application/vnd.fujitsu.oasys2" ext="oa2" />
+<type mime="application/vnd.fujitsu.oasys3" ext="oa3" />
+<type mime="application/vnd.fujitsu.oasysgp" ext="fg5" />
+<type mime="application/vnd.fujitsu.oasysprs" ext="bh2" />
+<type mime="application/vnd.fujixerox.ddd" ext="ddd" />
+<type mime="application/vnd.fujixerox.docuworks" ext="xdw" />
+<type mime="application/vnd.fujixerox.docuworks.binder" ext="xbd" />
+<type mime="application/vnd.fuzzysheet" ext="fzs" />
+<type mime="application/vnd.genomatix.tuxedo" ext="txd" />
+<type mime="application/vnd.gmx" ext="gmx" />
+<type mime="application/vnd.google-earth.kml+xml" ext="kml" />
+<type mime="application/vnd.google-earth.kmz" ext="kmz" />
+<type mime="application/vnd.grafeq" ext="gqf gqs" />
+<type mime="application/vnd.groove-account" ext="gac" />
+<type mime="application/vnd.groove-help" ext="ghf" />
+<type mime="application/vnd.groove-identity-message" ext="gim" />
+<type mime="application/vnd.groove-injector" ext="grv" />
+<type mime="application/vnd.groove-tool-message" ext="gtm" />
+<type mime="application/vnd.groove-tool-template" ext="tpl" />
+<type mime="application/vnd.groove-vcard" ext="vcg" />
+<type mime="application/vnd.HandHeld-Entertainment+xml" ext="zmm" />
+<type mime="application/vnd.hbci" ext="hbci hbc kom upa pkd bpd" />
+<type mime="application/vnd.hhe.lesson-player" ext="les" />
+<type mime="application/vnd.hp-HPGL" ext="hpgl" />
+<type mime="application/vnd.hp-hpid" ext="hpi hpid" />
+<type mime="application/vnd.hp-hps" ext="hps" />
+<type mime="application/vnd.hp-jlyt" ext="jlt" />
+<type mime="application/vnd.hp-PCL" ext="pcl" />
+<type mime="application/vnd.hydrostatix.sof-data" ext="sfd-hdstx" />
+<type mime="application/vnd.hzn-3d-crossword" ext="x3d" />
+<type mime="application/vnd.ibm.electronic-media" ext="emm" />
+<type mime="application/vnd.ibm.MiniPay" ext="mpy" />
+<type mime="application/vnd.ibm.modcap" ext="list3820 listafp afp pseg3820" />
+<type mime="application/vnd.ibm.rights-management" ext="irm" />
+<type mime="application/vnd.ibm.secure-container" ext="sc" />
+<type mime="application/vnd.iccprofile" ext="icc icm" />
+<type mime="application/vnd.igloader" ext="igl" />
+<type mime="application/vnd.immervision-ivp" ext="ivp" />
+<type mime="application/vnd.immervision-ivu" ext="ivu" />
+<type mime="application/vnd.informix-visionary" ext="vis" />
+<type mime="application/vnd.intercon.formnet" ext="xpw xpx" />
+<type mime="application/vnd.intu.qbo" ext="qbo" />
+<type mime="application/vnd.intu.qfx" ext="qfx" />
+<type mime="application/vnd.ipunplugged.rcprofile" ext="rcprofile" />
+<type mime="application/vnd.irepository.package+xml" ext="irp" />
+<type mime="application/vnd.is-xpr" ext="xpr" />
+<type mime="application/vnd.jam" ext="jam" />
+<type mime="application/vnd.jcp.javame.midlet-rms" ext="rms" />
+<type mime="application/vnd.jisp" ext="jisp" />
+<type mime="application/vnd.joost.joda-archive" ext="joda" />
+<type mime="application/vnd.kahootz" ext="ktz ktr" />
+<type mime="application/vnd.kde.chart" ext="chrt" />
+<type mime="application/vnd.kde.karbon" ext="karbon" />
+<type mime="application/vnd.kde.kformula" ext="kfo" />
+<type mime="application/vnd.kde.kivio" ext="flw" />
+<type mime="application/vnd.kde.kontour" ext="kon" />
+<type mime="application/vnd.kde.kpresenter" ext="kpr kpt" />
+<type mime="application/vnd.kde.kspread" ext="ksp" />
+<type mime="application/vnd.kde.kword" ext="kwd kwt" />
+<type mime="application/vnd.kenameaapp" ext="htke" />
+<type mime="application/vnd.kidspiration" ext="kia" />
+<type mime="application/vnd.Kinar" ext="kne knp sdf" />
+<type mime="application/vnd.koan" ext="skp skd skm skt" />
+<type mime="application/vnd.kodak-descriptor" ext="sse" />
+<type mime="application/vnd.llamagraphics.life-balance.desktop" ext="lbd" />
+<type mime="application/vnd.llamagraphics.life-balance.exchange+xml" ext="lbe" />
+<type mime="application/vnd.lotus-1-2-3" ext="123 wk4 wk3 wk1" />
+<type mime="application/vnd.lotus-approach" ext="apr vew" />
+<type mime="application/vnd.lotus-freelance" ext="prz pre" />
+<type mime="application/vnd.lotus-notes" ext="nsf ntf ndl ns4 ns3 ns2 nsh nsg" />
+<type mime="application/vnd.lotus-organizer" ext="or3 or2 org" />
+<type mime="application/vnd.lotus-screencam" ext="scm" />
+<type mime="application/vnd.lotus-wordpro" ext="lwp sam" />
+<type mime="application/vnd.macports.portpkg" ext="portpkg" />
+<type mime="application/vnd.marlin.drm.mdcf" ext="mdc" />
+<type mime="application/vnd.mcd" ext="mcd" />
+<type mime="application/vnd.medcalcdata" ext="mc1" />
+<type mime="application/vnd.mediastation.cdkey" ext="cdkey" />
+<type mime="application/vnd.MFER" ext="mwf" />
+<type mime="application/vnd.mfmp" ext="mfm" />
+<type mime="application/vnd.micrografx.flo" ext="flo" />
+<type mime="application/vnd.micrografx.igx" ext="igx" />
+<type mime="application/vnd.mif" ext="mif" />
+<type mime="application/vnd.Mobius.DAF" ext="daf" />
+<type mime="application/vnd.Mobius.DIS" ext="dis" />
+<type mime="application/vnd.Mobius.MBK" ext="mbk" />
+<type mime="application/vnd.Mobius.MQY" ext="mqy" />
+<type mime="application/vnd.Mobius.MSL" ext="msl" />
+<type mime="application/vnd.Mobius.PLC" ext="plc" />
+<type mime="application/vnd.Mobius.TXF" ext="txf" />
+<type mime="application/vnd.mophun.application" ext="mpn" />
+<type mime="application/vnd.mophun.certificate" ext="mpc" />
+<type mime="application/vnd.mozilla.xul+xml" ext="xul" />
+<type mime="application/vnd.ms-artgalry" ext="cil" />
+<type mime="application/vnd.ms-asf" ext="asf" />
+<type mime="application/vnd.ms-cab-compressed" ext="cab" />
+<type mime="application/vnd.ms-excel" ext="xls" />
+<type mime="application/vnd.ms-excel.addin.macroEnabled.12" ext="xlam" />
+<type mime="application/vnd.ms-excel.sheet.binary.macroEnabled.12" ext="xlsb" />
+<type mime="application/vnd.ms-excel.sheet.macroEnabled.12" ext="xlsm" />
+<type mime="application/vnd.ms-excel.template.macroEnabled.12" ext="xltm" />
+<type mime="application/vnd.ms-fontobject" ext="eot" />
+<type mime="application/vnd.ms-htmlhelp" ext="chm" />
+<type mime="application/vnd.ms-ims" ext="ims" />
+<type mime="application/vnd.ms-lrm" ext="lrm" />
+<type mime="application/vnd.ms-powerpoint" ext="ppt" />
+<type mime="application/vnd.ms-powerpoint.addin.macroEnabled.12" ext="ppam" />
+<type mime="application/vnd.ms-powerpoint.presentation.macroEnabled.12" ext="pptm" />
+<type mime="application/vnd.ms-powerpoint.slide.macroEnabled.12" ext="sldm" />
+<type mime="application/vnd.ms-powerpoint.slideshow.macroEnabled.12" ext="ppsm" />
+<type mime="application/vnd.ms-powerpoint.template.macroEnabled.12" ext="potm" />
+<type mime="application/vnd.ms-project" ext="mpp" />
+<type mime="application/vnd.ms-tnef" ext="tnef tnf" />
+<type mime="application/vnd.ms-word.document.macroEnabled.12" ext="docm" />
+<type mime="application/vnd.ms-word.template.macroEnabled.12" ext="dotm" />
+<type mime="application/vnd.ms-works" ext="wcm wdb wks wps" />
+<type mime="application/vnd.ms-wpl" ext="wpl" />
+<type mime="application/vnd.ms-xpsdocument" ext="xps" />
+<type mime="application/vnd.mseq" ext="mseq" />
+<type mime="application/vnd.multiad.creator" ext="crtr" />
+<type mime="application/vnd.multiad.creator.cif" ext="cif" />
+<type mime="application/vnd.musician" ext="mus" />
+<type mime="application/vnd.muvee.style" ext="msty" />
+<type mime="application/vnd.nervana" ext="entity request bkm kcm" />
+<type mime="application/vnd.neurolanguage.nlu" ext="nlu" />
+<type mime="application/vnd.noblenet-directory" ext="nnd" />
+<type mime="application/vnd.noblenet-sealer" ext="nns" />
+<type mime="application/vnd.noblenet-web" ext="nnw" />
+<type mime="application/vnd.nokia.n-gage.ac+xml" ext="ac" />
+<type mime="application/vnd.nokia.n-gage.data" ext="ngdat" />
+<type mime="application/vnd.nokia.n-gage.symbian.install" ext="n-gage" />
+<type mime="application/vnd.nokia.radio-preset" ext="rpst" />
+<type mime="application/vnd.nokia.radio-presets" ext="rpss" />
+<type mime="application/vnd.novadigm.EDM" ext="edm" />
+<type mime="application/vnd.novadigm.EDX" ext="edx" />
+<type mime="application/vnd.novadigm.EXT" ext="ext" />
+<type mime="application/vnd.oasis.opendocument.chart" ext="odc" />
+<type mime="application/vnd.oasis.opendocument.chart-template" ext="otc" />
+<type mime="application/vnd.oasis.opendocument.database" ext="odb" />
+<type mime="application/vnd.oasis.opendocument.formula" ext="odf" />
+<type mime="application/vnd.oasis.opendocument.formula-template" ext="otf" />
+<type mime="application/vnd.oasis.opendocument.graphics" ext="odg" />
+<type mime="application/vnd.oasis.opendocument.graphics-template" ext="otg" />
+<type mime="application/vnd.oasis.opendocument.image" ext="odi" />
+<type mime="application/vnd.oasis.opendocument.image-template" ext="oti" />
+<type mime="application/vnd.oasis.opendocument.presentation" ext="odp" />
+<type mime="application/vnd.oasis.opendocument.presentation-template" ext="otp" />
+<type mime="application/vnd.oasis.opendocument.spreadsheet" ext="ods" />
+<type mime="application/vnd.oasis.opendocument.spreadsheet-template" ext="ots" />
+<type mime="application/vnd.oasis.opendocument.text" ext="odt" />
+<type mime="application/vnd.oasis.opendocument.text-master" ext="otm" />
+<type mime="application/vnd.oasis.opendocument.text-template" ext="ott" />
+<type mime="application/vnd.oasis.opendocument.text-web" ext="oth" />
+<type mime="application/vnd.olpc-sugar" ext="xo" />
+<type mime="application/vnd.oma.dd2+xml" ext="dd2" />
+<type mime="application/vnd.openofficeorg.extension" ext="oxt" />
+<type mime="application/vnd.openxmlformats-officedocument.presentationml.presentation" ext="pptx" />
+<type mime="application/vnd.openxmlformats-officedocument.presentationml.slide" ext="sldx" />
+<type mime="application/vnd.openxmlformats-officedocument.presentationml.slideshow" ext="ppsx" />
+<type mime="application/vnd.openxmlformats-officedocument.presentationml.template" ext="potx" />
+<type mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ext="xlsx" />
+<type mime="application/vnd.openxmlformats-officedocument.spreadsheetml.template" ext="xltx" />
+<type mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ext="docx" />
+<type mime="application/vnd.openxmlformats-officedocument.wordprocessingml.template" ext="dotx" />
+<type mime="application/vnd.osa.netdeploy" ext="ndc" />
+<type mime="application/vnd.osgi.dp" ext="dp" />
+<type mime="application/vnd.palm" ext="prc pdb pqa oprc" />
+<type mime="application/vnd.pg.format" ext="str" />
+<type mime="application/vnd.pg.osasli" ext="ei6" />
+<type mime="application/vnd.piaccess.application-license" ext="pil" />
+<type mime="application/vnd.picsel" ext="efif" />
+<type mime="application/vnd.pocketlearn" ext="plf" />
+<type mime="application/vnd.powerbuilder6" ext="pbd" />
+<type mime="application/vnd.preminet" ext="preminet" />
+<type mime="application/vnd.previewsystems.box" ext="box vbox" />
+<type mime="application/vnd.proteus.magazine" ext="mgz" />
+<type mime="application/vnd.publishare-delta-tree" ext="qps" />
+<type mime="application/vnd.pvi.ptid1" ext="ptid" />
+<type mime="application/vnd.qualcomm.brew-app-res" ext="bar" />
+<type mime="application/vnd.Quark.QuarkXPress" ext="qxd qxt qwd qwt qxl qxb" />
+<type mime="application/vnd.recordare.musicxml" ext="mxl" />
+<type mime="application/vnd.route66.link66+xml" ext="link66" />
+<type mime="application/vnd.scribus" ext="scd sla slaz" />
+<type mime="application/vnd.sealed.3df" ext="s3df" />
+<type mime="application/vnd.sealed.csf" ext="scsf" />
+<type mime="application/vnd.sealed.doc" ext="sdoc sdo s1w" />
+<type mime="application/vnd.sealed.eml" ext="seml sem" />
+<type mime="application/vnd.sealed.mht" ext="smht smh" />
+<type mime="application/vnd.sealed.ppt" ext="sppt s1p" />
+<type mime="application/vnd.sealed.xls" ext="sxls sxl s1e" />
+<type mime="application/vnd.sealedmedia.softseal-html"  ext="stml stm s1h" />
+<type mime="application/vnd.sealedmedia.softseal-pdf"  ext="spdf spd s1a" />
+<type mime="application/vnd.seemail" ext="see" />
+<type mime="application/vnd.sema" ext="sema" />
+<type mime="application/vnd.semd" ext="semd" />
+<type mime="application/vnd.semf" ext="semf" />
+<type mime="application/vnd.shana.informed.formdata" ext="ifm" />
+<type mime="application/vnd.shana.informed.formtemplate" ext="itp" />
+<type mime="application/vnd.shana.informed.interchange" ext="iif" />
+<type mime="application/vnd.shana.informed.package" ext="ipk" />
+<type mime="application/vnd.SimTech-MindMapper" ext="twd twds" />
+<type mime="application/vnd.smaf" ext="mmf" />
+<type mime="application/vnd.software602.filler.form+xml" ext="fo" />
+<type mime="application/vnd.software602.filler.form-xml-zip" ext="zfo" />
+<type mime="application/vnd.solent.sdkm+xml" ext="sdkm sdkd" />
+<type mime="application/vnd.spotfire.dxp" ext="dxp" />
+<type mime="application/vnd.spotfire.sfs" ext="sfs" />
+<type mime="application/vnd.sun.wadl+xml" ext="wadl" />
+<type mime="application/vnd.sun.xml.writer" ext="sxw" />
+<type mime="application/vnd.sun.xml.writer.template" ext="stw" />
+<type mime="application/vnd.sun.xml.calc" ext="sxc" />
+<type mime="application/vnd.sun.xml.calc.template" ext="stc" />
+<type mime="application/vnd.sun.xml.draw" ext="sxd" />
+<type mime="application/vnd.sun.xml.draw.template" ext="std" />
+<type mime="application/vnd.sun.xml.impress" ext="sxi" />
+<type mime="application/vnd.sun.xml.impress.template" ext="sti" />
+<type mime="application/vnd.sun.xml.writer.global" ext="sxg" />
+<type mime="application/vnd.sun.xml.math" ext="sxm" />
+<type mime="application/vnd.sus-calendar" ext="sus susp" />
+<type mime="application/vnd.symbian.install" ext="sis" />
+<type mime="application/vnd.syncml.dm+wbxml" ext="bdm" />
+<type mime="application/vnd.syncml.dm+xml" ext="xdm" />
+<type mime="application/vnd.syncml+xml" ext="xsm" />
+<type mime="application/vnd.tao.intent-module-archive" ext="tao" />
+<type mime="application/vnd.tmobile-livetv" ext="tmo" />
+<type mime="application/vnd.trid.tpt" ext="tpt" />
+<type mime="application/vnd.triscape.mxs" ext="mxs" />
+<type mime="application/vnd.trueapp" ext="tra" />
+<type mime="application/vnd.ufdl" ext="ufdl ufd frm" />
+<type mime="application/vnd.uiq.theme" ext="utz" />
+<type mime="application/vnd.umajin" ext="umj" />
+<type mime="application/vnd.unity" ext="unityweb" />
+<type mime="application/vnd.uoml+xml" ext="uoml uo" />
+<type mime="application/vnd.vcx" ext="vcx" />
+<type mime="application/vnd.vd-study" ext="mxi study-inter model-inter" />
+<type mime="application/vnd.vectorworks" ext="vwx" />
+<type mime="application/vnd.vidsoft.vidconference" ext="vsc" />
+<type mime="application/vnd.visio" ext="vsd vst vsw vss" />
+<type mime="application/vnd.visionary" ext="vis" />
+<type mime="application/vnd.vsf" ext="vsf" />
+<type mime="application/vnd.wap.mms-message" ext="mms" />
+<type mime="application/vnd.wap.sic" ext="sic" />
+<type mime="application/vnd.wap.slc" ext="slc" />
+<type mime="application/vnd.wap.wbxml" ext="wbxml" />
+<type mime="application/vnd.wap.wmlc" ext="wmlc" />
+<type mime="application/vnd.wap.wmlscriptc" ext="wmlsc" />
+<type mime="application/vnd.webturbo" ext="wtb" />
+<type mime="application/vnd.wfa.wsc" ext="wsc" />
+<type mime="application/vnd.wmc" ext="wmc" />
+<type mime="application/vnd.wordperfect" ext="wpd" />
+<type mime="application/vnd.wqd" ext="wqd" />
+<type mime="application/vnd.wt.stf" ext="stf" />
+<type mime="application/vnd.wv.csp+wbxml" ext="wv" />
+<type mime="application/vnd.xara" ext="xar" />
+<type mime="application/vnd.xfdl" ext="xfdl xfd" />
+<type mime="application/vnd.xmpie.cpkg" ext="cpkg" />
+<type mime="application/vnd.xmpie.dpkg" ext="dpkg" />
+<type mime="application/vnd.xmpie.ppkg" ext="ppkg" />
+<type mime="application/vnd.xmpie.xlim" ext="xlim" />
+<type mime="application/vnd.yamaha.hv-dic" ext="hvd" />
+<type mime="application/vnd.yamaha.hv-script" ext="hvs" />
+<type mime="application/vnd.yamaha.hv-voice" ext="hvp" />
+<type mime="application/vnd.yamaha.smaf-audio" ext="saf" />
+<type mime="application/vnd.yamaha.smaf-phrase" ext="spf" />
+<type mime="application/vnd.yellowriver-custom-menu" ext="cmp" />
+<type mime="application/vnd.zzazz.deck+xml" ext="zaz" />
+<type mime="application/voicexml+xml" ext="vxml" />
+<type mime="application/watcherinfo+xml" ext="wif" />
+<type mime="application/wsdl+xml" ext="wsdl" />
+<type mime="application/wspolicy+xml" ext="wspolicy" />
+<type mime="application/x-bcpio" ext="bcpio" />
+<type mime="application/x-bittorrent" ext="torrent" />
+<type mime="application/x-bzip2" ext="bz2" />
+<type mime="application/x-cdlink" ext="vcd" />
+<type mime="application/x-chess-pgn" ext="pgn" />
+<type mime="application/x-cpio" ext="cpio" />
+<type mime="application/x-csh" ext="csh" />
+<type mime="application/x-director" ext="dcr dir dxr" />
+<type mime="application/x-dvi" ext="dvi" />
+<type mime="application/x-futuresplash" ext="spl" />
+<type mime="application/x-gtar" ext="gtar" />
+<type mime="application/x-gzip" ext="gz tgz" />
+<type mime="application/x-hdf" ext="hdf" />
+<type mime="application/x-java-archive" ext="jar" />
+<type mime="application/x-java-jnlp-file" ext="jnlp" />
+<type mime="application/x-killustrator" ext="kil" />
+<type mime="application/x-latex" ext="latex" />
+<type mime="application/x-netcdf" ext="nc cdf" />
+<type mime="application/x-perl" ext="pl" />
+<type mime="application/x-rpm" ext="rpm" />
+<type mime="application/x-sh" ext="sh" />
+<type mime="application/x-shar" ext="shar" />
+<type mime="application/x-shockwave-flash" ext="swf" />
+<type mime="application/x-stuffit" ext="sit" />
+<type mime="application/x-sv4cpio" ext="sv4cpio" />
+<type mime="application/x-sv4crc" ext="sv4crc" />
+<type mime="application/x-tar" ext="tar" />
+<type mime="application/x-tcl" ext="tcl" />
+<type mime="application/x-tex" ext="tex" />
+<type mime="application/x-texinfo" ext="texinfo texi" />
+<type mime="application/x-troff" ext="t tr roff" />
+<type mime="application/x-troff-man" ext="man 1 2 3 4 5 6 7 8" />
+<type mime="application/x-troff-me" ext="me" />
+<type mime="application/x-troff-ms" ext="ms" />
+<type mime="application/x-ustar" ext="ustar" />
+<type mime="application/x-wais-source" ext="src" />
+<type mime="application/xcap-att+xml" ext="xav" />
+<type mime="application/xcap-caps+xml" ext="xca" />
+<type mime="application/xcap-el+xml" ext="xel" />
+<type mime="application/xcap-error+xml" ext="xer" />
+<type mime="application/xcap-ns+xml" ext="xns" />
+<type mime="application/xhtml+xml" ext="xhtml xhtm xht" />
+<type mime="application/xml-dtd" ext="dtd" />
+<type mime="application/xop+xml" ext="xop" />
+<type mime="application/xv+xml" ext="mxml xhvml xvml xvm" />
+<type mime="application/zip" ext="zip" />
+<type mime="audio/32kadpcm" ext="726" />
+<type mime="audio/AMR" ext="amr" />
+<type mime="audio/AMR-WB" ext="awb" />
+<type mime="audio/basic" ext="au snd" />
+<type mime="audio/dls" ext="dls" />
+<type mime="audio/EVRC" ext="evc" />
+<type mime="audio/EVRCB" ext="evb" />
+<type mime="audio/EVRCWB" ext="evw" />
+<type mime="audio/iLBC" ext="lbc" />
+<type mime="audio/L16" ext="l16" />
+<type mime="audio/midi" ext="mid midi kar" />
+<type mime="audio/mobile-xmf" ext="mxmf" />
+<type mime="audio/mpeg" ext="mpga mp1 mp2 mp3" />
+<type mime="audio/ogg" ext="oga ogg spx" />
+<type mime="audio/prs.sid" ext="sid psid" />
+<type mime="audio/qcelp" ext="qcp" />
+<type mime="audio/SMV" ext="smv" />
+<type mime="audio/vnd.audikoz" ext="koz" />
+<type mime="audio/vnd.digital-winds" ext="eol" />
+<type mime="audio/vnd.dolby.mlp" ext="mlp" />
+<type mime="audio/vnd.dts" ext="dts" />
+<type mime="audio/vnd.dtshd" ext="dtshd" />
+<type mime="audio/vnd.everad.plj" ext="plj" />
+<type mime="audio/vnd.lucent.voice" ext="lvp" />
+<type mime="audio/vnd.ms-playready.media.pya" ext="pya" />
+<type mime="audio/vnd.nortel.vbk" ext="vbk" />
+<type mime="audio/vnd.nuera.ecelp4800" ext="ecelp4800" />
+<type mime="audio/vnd.nuera.ecelp7470" ext="ecelp7470" />
+<type mime="audio/vnd.nuera.ecelp9600" ext="ecelp9600" />
+<type mime="audio/vnd.sealedmedia.softseal-mpeg" ext="smp3 smp s1m" />
+<type mime="audio/x-aiff" ext="aif aiff aifc" />
+<type mime="audio/x-mod" ext="mod ult uni m15 mtm 669 med" />
+<type mime="audio/x-mpegurl" ext="m3u" />
+<type mime="audio/x-pn-realaudio" ext="ram rm" />
+<type mime="audio/x-realaudio" ext="ra" />
+<type mime="audio/x-stm" ext="stm" />
+<type mime="audio/x-wav" ext="wav" />
+<type mime="audio/x-ms-wma" ext="wma" />
+<type mime="audio/x-ms-wax" ext="wax" />
+<type mime="chemical/x-xyz" ext="xyz" />
+<type mime="image/bmp" ext="bmp" />
+<type mime="image/fits" ext="fits fit fts" />
+<type mime="image/gif" ext="gif" />
+<type mime="image/ief" ext="ief" />
+<type mime="image/jp2" ext="jp2 jpg2" />
+<type mime="image/jpeg" ext="jpeg jpg jpe jfif" />
+<type mime="image/jpm" ext="jpm jpgm" />
+<type mime="image/jpx" ext="jpx jpf" />
+<type mime="image/png" ext="png" />
+<type mime="image/prs.btif" ext="btif btf" />
+<type mime="image/prs.pti" ext="pti" />
+<type mime="image/t38" ext="t38" />
+<type mime="image/tiff" ext="tiff tif" />
+<type mime="image/tiff-fx" ext="tfx" />
+<type mime="image/vnd.adobe.photoshop" ext="psd" />
+<type mime="image/vnd.djvu" ext="djvu djv" />
+<type mime="image/vnd.dxf" ext="dxf" />
+<type mime="image/vnd.fastbidsheet" ext="fbs" />
+<type mime="image/vnd.fpx" ext="fpx" />
+<type mime="image/vnd.fst" ext="fst" />
+<type mime="image/vnd.fujixerox.edmics-mmr" ext="mmr" />
+<type mime="image/vnd.fujixerox.edmics-rlc" ext="rlc" />
+<type mime="image/vnd.globalgraphics.pgb" ext="pgb" />
+<type mime="image/vnd.microsoft.icon" ext="ico" />
+<type mime="image/vnd.ms-modi" ext="mdi" />
+<type mime="image/vnd.sealed.png" ext="spng spn s1n" />
+<type mime="image/vnd.sealedmedia.softseal-gif" ext="sgif sgi s1g" />
+<type mime="image/vnd.sealedmedia.softseal-jpg" ext="sjpg sjp s1j" />
+<type mime="image/vnd.wap.wbmp" ext="wbmp" />
+<type mime="image/vnd.xiff" ext="xif" />
+<type mime="image/x-cmu-raster" ext="ras" />
+<type mime="image/x-portable-anymap" ext="pnm" />
+<type mime="image/x-portable-bitmap" ext="pbm" />
+<type mime="image/x-portable-graymap" ext="pgm" />
+<type mime="image/x-portable-pixmap" ext="ppm" />
+<type mime="image/x-rgb" ext="rgb" />
+<type mime="image/x-targa" ext="tga" />
+<type mime="image/x-xbitmap" ext="xbm" />
+<type mime="image/x-xpixmap" ext="xpm" />
+<type mime="image/x-xwindowdump" ext="xwd" />
+<type mime="message/global" ext="u8msg" />
+<type mime="message/global-delivery-status" ext="u8dsn" />
+<type mime="message/global-disposition-notification" ext="u8mdn" />
+<type mime="message/global-headers" ext="u8hdr" />
+<type mime="message/news" ext="art" />
+<type mime="message/rfc822" ext="eml mail" />
+<type mime="model/iges" ext="igs iges" />
+<type mime="model/mesh" ext="msh mesh silo" />
+<type mime="model/vnd.dwf" ext="dwf" />
+<type mime="model/vnd.gdl" ext="gdl gsm win dor lmp rsm msm ism" />
+<type mime="model/vnd.gtw" ext="gtw" />
+<type mime="model/vnd.moml+xml" ext="moml" />
+<type mime="model/vnd.mts" ext="mts" />
+<type mime="model/vnd.parasolid.transmit-binary" ext="x_b xmt_bin" />
+<type mime="model/vnd.parasolid.transmit-text" ext="x_t xmt_txt" />
+<type mime="model/vnd.vtu" ext="vtu" />
+<type mime="model/vrml" ext="wrl vrml" />
+<type mime="multipart/voice-message" ext="vpm" />
+<type mime="text/calendar" ext="ics ifb" />
+<type mime="text/css" ext="css" />
+<type mime="text/csv" ext="csv" />
+<type mime="text/html" ext="html htm" />
+<type mime="text/javascript" ext="js" />
+<type mime="text/plain" ext="asc txt text pm el c h cc hh cxx hxx f90" />
+<type mime="text/prs.fallenstein.rst" ext="rst" />
+<type mime="text/prs.lines.tag" ext="tag dsc" />
+<type mime="text/richtext" ext="rtx" />
+<type mime="text/sgml" ext="sgml sgm" />
+<type mime="text/tab-separated-values" ext="tsv" />
+<type mime="text/uri-list" ext="uris uri" />
+<type mime="text/vnd.DMClientScript" ext="dms" />
+<type mime="text/vnd.abc" ext="abc" />
+<type mime="text/vnd.esmertec.theme-descriptor" ext="jtd" />
+<type mime="text/vnd.fly" ext="fly" />
+<type mime="text/vnd.fmi.flexstor" ext="flx" />
+<type mime="text/vnd.graphviz" ext="gv dot" />
+<type mime="text/vnd.in3d.3dml" ext="3dml 3dm" />
+<type mime="text/vnd.in3d.spot" ext="spot spo" />
+<type mime="text/vnd.ms-mediapackage" ext="mpf" />
+<type mime="text/vnd.net2phone.commcenter.command" ext="ccc" />
+<type mime="text/vnd.si.uricatalogue" ext="uric" />
+<type mime="text/vnd.sun.j2me.app-descriptor" ext="jad" />
+<type mime="text/vnd.trolltech.linguist" ext="ts" />
+<type mime="text/vnd.wap.si" ext="si" />
+<type mime="text/vnd.wap.sl" ext="sl" />
+<type mime="text/vnd.wap.wml" ext="wml" />
+<type mime="text/vnd.wap.wmlscript" ext="wmls" />
+<type mime="text/x-pod" ext="pod" />
+<type mime="text/x-setext" ext="etx" />
+<type mime="text/x-vcard" ext="vcf" />
+<type mime="text/xml" ext="xml xsl" />
+<type mime="text/xml-external-parsed-entity" ext="ent" />
+<type mime="video/3gpp" ext="3gp 3gpp" />
+<type mime="video/3gpp2" ext="3g2 3gpp2" />
+<type mime="video/mj2" ext="mj2 mjp2" />
+<type mime="video/mp4" ext="mp4 mpg4" />
+<type mime="video/mpeg" ext="mpeg mpg mpe" />
+<type mime="video/ogg" ext="ogv" />
+<type mime="video/quicktime" ext="qt mov" />
+<type mime="video/vnd.fvt" ext="fvt" />
+<type mime="video/vnd.mpegurl" ext="mxu m4u" />
+<type mime="video/vnd.ms-playready.media.pyv" ext="pyv" />
+<type mime="video/vnd.nokia.interleaved-multimedia" ext="nim" />
+<type mime="video/vnd.sealed.mpeg1" ext="smpg s11" />
+<type mime="video/vnd.sealed.mpeg4" ext="s14" />
+<type mime="video/vnd.sealed.swf" ext="sswf ssw" />
+<type mime="video/vnd.sealedmedia.softseal-mov" ext="smov smo s1q" />
+<type mime="video/x-flv" ext="flv" />
+<type mime="video/x-ms-asf" ext="asf asx" />
+<type mime="video/x-ms-wm" ext="wm" />
+<type mime="video/x-ms-wmv" ext="wmv" />
+<type mime="video/x-ms-wmx" ext="wmx" />
+<type mime="video/x-ms-wvx" ext="wvx" />
+<type mime="video/x-msvideo" ext="avi" />
+<type mime="video/x-sgi-movie" ext="movie" />
+<type mime="x-conference/x-cooltalk" ext="ice" />
+<type mime="x-epoc/x-sisx-app" ext="sisx" />
+</types>
