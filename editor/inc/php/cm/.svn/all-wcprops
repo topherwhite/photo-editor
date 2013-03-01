@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/127/trunk/www/inc/php/cm
+END
+User.GetTimezones.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/www/inc/php/cm/User.GetTimezones.php
+END
+CMBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/127/trunk/www/inc/php/cm/CMBase.php
+END
+Subscriber.Add.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Subscriber.Add.php
+END
+List.Update.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/inc/php/cm/List.Update.php
+END
+Template.Update.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Template.Update.php
+END
+Client.GetSuppressionList.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Client.GetSuppressionList.php
+END
+Client.UpdateAccessAndBilling.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Client.UpdateAccessAndBilling.php
+END
+Campaign.Send.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Campaign.Send.php
+END
+Subscriber.AddWithCustomFields.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Subscriber.AddWithCustomFields.php
+END
+List.GetCustomFields.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/127/trunk/www/inc/php/cm/List.GetCustomFields.php
+END
+Client.GetTemplates.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Client.GetTemplates.php
+END
+List.DeleteCustomField.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/127/trunk/www/inc/php/cm/List.DeleteCustomField.php
+END
+List.GetDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/127/trunk/www/inc/php/cm/List.GetDetail.php
+END
+List.Delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/inc/php/cm/List.Delete.php
+END
+List.CreateCustomField.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/127/trunk/www/inc/php/cm/List.CreateCustomField.php
+END
+Template.GetDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Template.GetDetail.php
+END
+Template.Delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Template.Delete.php
+END
+Template.Create.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Template.Create.php
+END
+List.Create.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/inc/php/cm/List.Create.php
+END
+Client.GetCampaigns.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Client.GetCampaigns.php
+END
+Client.GetDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Client.GetDetail.php
+END
+Campaign.Delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Campaign.Delete.php
+END
+Client.Create.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Client.Create.php
+END
+Campaign.Create.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Campaign.Create.php
+END
+Client.UpdateBasics.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Client.UpdateBasics.php
+END
+Subscriber.Unsubscribe.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/127/trunk/www/inc/php/cm/Subscriber.Unsubscribe.php
+END
+User.GetCountries.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/www/inc/php/cm/User.GetCountries.php
+END

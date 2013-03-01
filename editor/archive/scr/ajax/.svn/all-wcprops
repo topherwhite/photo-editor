@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax
+END
+value_lists.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/value_lists.php
+END
+notes_update.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/notes_update.php
+END
+rate.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/rate.php
+END
+album.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/album.php
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/delete.php
+END
+cptn_return.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/cptn_return.php
+END
+crop.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/crop.php
+END
+cptn_update.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/cptn_update.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/login.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/logout.php
+END
+cptn_version.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/cptn_version.php
+END
+random.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/random.php
+END
+orig_is_hires.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/orig_is_hires.php
+END
+status_update.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/status_update.php
+END
+batch_apply.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/www/archive/scr/ajax/batch_apply.php
+END

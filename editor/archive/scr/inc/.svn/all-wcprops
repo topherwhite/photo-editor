@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/127/trunk/www/archive/scr/inc
+END
+xml2array.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/xml2array.inc.php
+END
+mysql_sess.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/mysql_sess.inc.php
+END
+xml_clean.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/xml_clean.inc.php
+END
+popup.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/popup.inc.php
+END
+s3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/s3.inc.php
+END
+rs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/rs.xml
+END
+read_write.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/read_write.inc.php
+END
+html_clean.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/html_clean.inc.php
+END
+var.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/var.inc.php
+END
+imgtxt.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/imgtxt.inc.php
+END
+random.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/trunk/www/archive/scr/inc/random.inc.php
+END

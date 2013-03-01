@@ -1,0 +1,5 @@
+body { background-color:gray;  }
+
+div.m { position:relative; margin:0px 1px 1px 1px; font-family:arial, verdana; font-size:12px; }
+
+div.m_container { margin:0px auto 0px auto; width:920px; background-color:white; height:auto; padding:0px 1px 0px 1px; top:-6px; }

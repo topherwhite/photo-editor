@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+body { background-color:#000000; font-size:12px; font-family:"Verdana", Lucida Grande, Arial, sans-serif; color:white; }
+
+div.container{ position:relative; color:white; font-size:12px; margin-left:auto; margin-right:auto; text-align:left; top:-8px; width:800px; padding-top:8px; background-color:transparent; }
+
+div.meta_photodisp { position:relative; border:solid 1px red; }
+
+img.meta_photodisp { position:absolute; top:0px; left:0px; }
+
+div.meta_metadisp { position:relative; margin:10px 0px 0px 0px; width:100%; height:800px; border:solid 1px red; }
+
+img.load { position:absolute; top:0px; left:0px; width:0px; height:0px; visibility:hidden; border:none; z-index:0; }
+
+table.meta_enter { width:100%; }
+
+table.meta_enter td.meta_ttl { width:180px; text-align:right; vertical-align:top; font-size:120%; }
+
+table.meta_enter td.meta_sctn_ttl { font-size:14px; font-weight:bold; border-bottom:dotted 1px white; padding:8px 0px 4px 0px; }
+
+table.meta_enter td.meta_textarea input { width:90%; padding:4px 4px 4px 4px; font-size:12px; font-family:arial; }
+
+div.topmatter { position:relative; left:0px; top:20px; width:100px; height:100px; }
+
+div.photo_upload { border:none; padding:none; width:auto; height:auto; position:absolute; left:0px; top:0px; }
+div.photo_upload input { width:auto; }
+
+div.album_control { border:solid 1px white; padding:15px; width:350px; position:absolute; left:300px; top:0px; }
+div.view_select { border:solid 1px white; padding:15px; width:400px; position:absolute; left:700px; top:0px; z-index:0; }
+	
+img.popup_x { position:relative; float:right; top:-20px; left:20px; cursor:pointer;z-index:3;width:33px;height:33px; background-color:transparent; }
+
+input.apply { cursor:pointer; margin:0px 7px 0px 7px; }
+
+select.vers_cptn { position:relative; top:2px; float:right; }
+label.vers_cptn { position:relative; top:2px; float:right; }
+
+div.popup_upload_1
+{ position:absolute; background-color:#cccccc; height:auto; width:220px; color:black; border:solid 2px #f78f1e; visibility:visible; z-index:10; padding:20px 20px 20px 20px; left:30px; top:10px; }
+
+select.status { position:relative; float:right; }

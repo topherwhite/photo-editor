@@ -1,0 +1,202 @@
+[Tue Jan 11 16:50:26 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined offset:  1 in /liz/editor/www/ws/img.php on line 8
+[Tue Jan 11 16:50:31 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/img
+[Tue Jan 11 17:05:10 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined index:  login_email in /liz/editor/www/ws/login.php on line 7
+[Tue Jan 11 17:05:10 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined index:  login_password in /liz/editor/www/ws/login.php on line 8
+[Tue Jan 11 17:32:03 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 35
+[Tue Jan 11 17:32:42 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 35
+[Tue Jan 11 17:38:02 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 34
+[Tue Jan 11 17:38:04 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 34
+[Tue Jan 11 17:59:20 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 34
+[Tue Jan 11 18:02:15 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /liz/editor/www/ws/login.php on line 47
+[Tue Jan 11 18:02:15 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /liz/editor/www/ws/login.php on line 47
+[Tue Jan 11 18:02:17 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /liz/editor/www/ws/login.php on line 47
+[Tue Jan 11 18:02:17 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /liz/editor/www/ws/login.php on line 47
+[Tue Jan 11 18:03:57 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 36
+[Wed Jan 12 01:49:09 2011] [error] [client 78.125.69.98] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 36
+[Wed Jan 12 01:49:10 2011] [error] [client 78.125.69.98] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 36
+[Wed Jan 12 02:04:48 2011] [error] [client 78.125.69.98] (2)No such file or directory: Could not open password file: /liz/httpd/auth/virtual_users.dav
+[Wed Jan 12 02:04:48 2011] [error] [client 78.125.69.98] access to /webdav failed, reason: verification of user id 'topher' not configured
+[Wed Jan 12 02:08:03 2011] [error] [client 78.125.69.98] Directory index forbidden by Options directive: /mnt/editor/webdav/
+[Wed Jan 12 02:09:03 2011] [error] [client 78.125.69.98] Directory index forbidden by Options directive: /mnt/editor/webdav/
+[Wed Jan 12 02:09:04 2011] [error] [client 78.125.69.98] Directory index forbidden by Options directive: /mnt/editor/webdav/
+[Wed Jan 12 02:09:19 2011] [error] [client 78.125.69.98] Directory index forbidden by Options directive: /mnt/editor/webdav/
+[Wed Jan 12 02:09:20 2011] [error] [client 78.125.69.98] Directory index forbidden by Options directive: /mnt/editor/webdav/
+[Wed Jan 12 02:10:02 2011] [error] [client 78.125.69.98] Directory index forbidden by Options directive: /mnt/editor/webdav/
+[Wed Jan 12 02:26:27 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/webdav/topherwhite@gmail.com/calder_09.jpg
+[Wed Jan 12 02:38:53 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_fs/topherwhite@gmail.com/vlc.txt
+[Wed Jan 12 02:52:21 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/topherwhite@gmail.com/streaming.txt
+[Wed Jan 12 04:06:48 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 12 04:06:48 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 12 04:11:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 12 04:11:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 12 04:12:32 2011] [error] [client 78.125.68.52] (2)No such file or directory: Could not open password file: /liz/httpd/auth/webdav_users.dav
+[Wed Jan 12 04:12:32 2011] [error] [client 78.125.68.52] access to /webdav/topherwhite@gmail.com failed, reason: verification of user id 'topherwhite@gmail.com' not configured
+[Wed Jan 12 04:12:39 2011] [error] [client 78.125.68.52] (2)No such file or directory: Could not open password file: /liz/httpd/auth/webdav_users.dav
+[Wed Jan 12 04:12:39 2011] [error] [client 78.125.68.52] access to /webdav/topherwhite@gmail.com failed, reason: verification of user id 'topherwhite@gmail.com' not configured
+[Wed Jan 12 04:12:47 2011] [error] [client 78.125.68.52] (2)No such file or directory: Could not open password file: /liz/httpd/auth/webdav_users.dav
+[Wed Jan 12 04:12:47 2011] [error] [client 78.125.68.52] access to /webdav/topherwhite@gmail.com failed, reason: verification of user id 'topherwhite@gmail.com' not configured
+[Wed Jan 12 04:13:43 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 12 04:13:43 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 12 12:12:36 2011] [error] [client 193.52.216.130] Directory index forbidden by Options directive: /mnt/editor/upld_webdav/christopher.white@iter.org/
+[Wed Jan 12 12:12:47 2011] [error] [client 193.52.216.130] Directory index forbidden by Options directive: /mnt/editor/upld_webdav/topherwhite@gmail.com/
+[Wed Jan 12 12:12:52 2011] [error] [client 193.52.216.130] Directory index forbidden by Options directive: /mnt/editor/upld_webdav/topherwhite@gmail.com/
+[Wed Jan 12 12:13:22 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/webdave
+[Wed Jan 12 12:13:34 2011] [error] [client 193.52.216.130] Directory index forbidden by Options directive: /mnt/editor/upld_webdav/topherwhite@gmail.com/
+[Wed Jan 12 12:16:31 2011] [error] [client 193.52.216.130] Directory index forbidden by Options directive: /mnt/editor/upld_webdav/topherwhite@gmail.com/
+[Wed Jan 12 12:18:02 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/topherwhite@gmail.com/vlc.txt
+[Wed Jan 12 12:18:45 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/christopher.white@iter.org/streaming.txt
+[Thu Jan 13 03:17:11 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 10:43:37 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/sylvie.andre@cea.fr/map visit.jpg
+[Thu Jan 13 10:44:41 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/sylvie.andre@cea.fr/_ALT7453.jpg
+[Thu Jan 13 10:44:42 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/sylvie.andre@cea.fr/_ALT7517.jpg
+[Thu Jan 13 10:44:43 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/sylvie.andre@cea.fr/_ALT7522.jpg
+[Thu Jan 13 10:44:43 2011] [error] [client 193.52.216.130] File does not exist: /mnt/editor/upld_webdav/sylvie.andre@cea.fr/_ALT7543.jpg
+[Thu Jan 13 21:28:50 2011] [error] [client 82.224.101.194] user delaplagnejd@gmail.com: authentication failure for "/webdav/delaplagnejd@gmail.com": Password Mismatch
+[Thu Jan 13 21:41:55 2011] [error] [client 82.224.101.194] Could not DELETE /webdav/delaplagnejd@gmail.com/._bonkdo100364.pdf due to a failed precondition (e.g. locks).  [424, #0]
+[Thu Jan 13 21:41:55 2011] [error] [client 82.224.101.194] An error occurred on another resource, preventing the requested operation on this resource.  [424, #0]
+[Thu Jan 13 21:42:26 2011] [error] [client 82.224.101.194] Could not DELETE /webdav/delaplagnejd@gmail.com/._bonkdo_201010252050181-fac-2.pdf due to a failed precondition (e.g. locks).  [424, #0]
+[Thu Jan 13 21:42:26 2011] [error] [client 82.224.101.194] An error occurred on another resource, preventing the requested operation on this resource.  [424, #0]
+[Thu Jan 13 22:56:03 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:56:03 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:57:37 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:57:37 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:59:43 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:59:43 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 23:05:58 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 23:05:58 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 16 03:33:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Mon Jan 17 11:17:16 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 36
+[Mon Jan 17 11:24:50 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 39
+[Mon Jan 17 11:30:29 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 39
+[Mon Jan 17 11:30:48 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 39
+[Mon Jan 17 11:31:39 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 39
+[Mon Jan 17 11:34:37 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 39
+[Mon Jan 17 12:03:09 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/login.php on line 39, referer: https://wint.erti.me/login
+[Mon Jan 17 12:15:17 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/ws/login, referer: https://wint.erti.me/login
+[Mon Jan 17 12:15:19 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/ws/login, referer: https://wint.erti.me/login
+[Mon Jan 17 12:15:20 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/ws/login, referer: https://wint.erti.me/login
+[Mon Jan 17 12:15:25 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/ws/login, referer: https://wint.erti.me/login
+[Mon Jan 17 12:42:44 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/user.php on line 39, referer: https://wint.erti.me/login
+[Mon Jan 17 13:39:36 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/user.php on line 39, referer: https://wint.erti.me/login
+[Tue Jan 18 14:58:11 2011] [error] [client 66.249.66.213] File does not exist: /liz/editor/www/robots.txt
+[Tue Jan 18 14:58:12 2011] [error] [client 66.249.66.213] File does not exist: /liz/editor/www/robots.txt
+[Tue Jan 18 16:09:07 2011] [error] [client 193.52.216.130] PHP Warning:  move_uploaded_file(/mnt/editor/upld_web/topherwhite@gmail.com/aif.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: Permission denied in /liz/editor/www/upload/upload_submit.php on line 10, referer: https://wint.erti.me/upload/
+[Tue Jan 18 16:09:07 2011] [error] [client 193.52.216.130] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpYYI7jO' to '/mnt/editor/upld_web/topherwhite@gmail.com/aif.jpg' in /liz/editor/www/upload/upload_submit.php on line 10, referer: https://wint.erti.me/upload/
+[Tue Jan 18 16:11:12 2011] [error] [client 193.52.216.130] PHP Warning:  move_uploaded_file(/mnt/editor/upld_web/topherwhite@gmail.com/web_sci_2010.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: Permission denied in /liz/editor/www/upload/upload_submit.php on line 11, referer: https://wint.erti.me/upload/
+[Tue Jan 18 16:11:12 2011] [error] [client 193.52.216.130] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpQ8bf2V' to '/mnt/editor/upld_web/topherwhite@gmail.com/web_sci_2010.pdf' in /liz/editor/www/upload/upload_submit.php on line 11, referer: https://wint.erti.me/upload/
+[Wed Jan 19 03:03:47 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 03:03:47 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 03:33:43 2011] [error] [client 78.125.113.198] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /liz/editor/www/upload/upload.php on line 9, referer: https://wint.erti.me/upload/
+[Wed Jan 19 03:34:11 2011] [error] [client 78.125.113.198] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /liz/editor/www/upload/upload.php on line 9, referer: https://wint.erti.me/upload/
+[Wed Jan 19 03:40:11 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 03:58:19 2011] [error] [client 78.125.113.198] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /liz/editor/www/upload/upload.php on line 18, referer: https://wint.erti.me/upload/
+[Wed Jan 19 03:58:29 2011] [error] [client 78.125.113.198] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /liz/editor/www/upload/upload.php on line 18, referer: https://wint.erti.me/upload/
+[Wed Jan 19 03:59:32 2011] [error] [client 78.125.113.198] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /liz/editor/www/upload/upload.php on line 19, referer: https://wint.erti.me/upload/
+[Wed Jan 19 03:59:44 2011] [error] [client 78.125.113.198] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /liz/editor/www/upload/upload.php on line 19, referer: https://wint.erti.me/upload/
+[Wed Jan 19 04:03:36 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/img/stat/wint.erti.me.png, referer: https://wint.erti.me/login
+[Wed Jan 19 05:17:01 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/img/stat/wint.erti.me.png, referer: https://wint.erti.me/login
+[Wed Jan 19 05:19:57 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/img/stat/wint.erti.me.png, referer: https://wint.erti.me/login
+[Wed Jan 19 05:25:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 05:25:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 06:52:45 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Wed Jan 19 06:52:45 2011] [error] [client 66.249.66.213] File does not exist: /liz/editor/www/robots.txt
+[Wed Jan 19 09:52:49 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/login]
+[Wed Jan 19 09:52:52 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/img/stat/wint.erti.me.png, referer: https://wint.erti.me/login
+[Wed Jan 19 09:55:01 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/img/stat/wint.erti.me.png, referer: https://wint.erti.me/login
+[Wed Jan 19 09:55:02 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/img/stat/wint.erti.me.png
+[Wed Jan 19 22:25:56 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/k
+[Sat Jan 22 06:24:07 2011] [error] [client 66.249.68.116] File does not exist: /liz/editor/www/robots.txt
+[Sat Jan 22 06:24:09 2011] [error] [client 66.249.68.116] File does not exist: /liz/editor/www/robots.txt
+[Sat Jan 22 13:09:07 2011] [error] [client 66.249.68.116] File does not exist: /liz/editor/www/robots.txt
+[Sun Jan 23 03:07:11 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 23 07:04:33 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Sun Jan 23 10:10:17 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Sun Jan 23 17:33:12 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Mon Jan 24 12:58:23 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Mon Jan 24 22:55:25 2011] [error] [client 66.249.66.213] File does not exist: /liz/editor/www/robots.txt
+[Tue Jan 25 05:48:03 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Wed Jan 26 10:34:11 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Wed Jan 26 10:34:12 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:01:52 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Thu Jan 27 10:05:07 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected ';' in /liz/editor/www/index2.php on line 30
+[Thu Jan 27 10:05:20 2011] [error] [client 193.52.216.130] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /liz/editor/www/index2.php on line 29
+[Thu Jan 27 10:06:38 2011] [error] [client 193.52.216.130] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /liz/editor/www/index2.php on line 29
+[Thu Jan 27 10:08:11 2011] [error] [client 193.52.216.130] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /liz/editor/www/index2.php on line 31
+[Thu Jan 27 10:08:53 2011] [error] [client 193.52.216.130] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /liz/editor/www/index2.php on line 31
+[Thu Jan 27 10:11:20 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected T_VARIABLE in /liz/editor/www/index2.php on line 33
+[Thu Jan 27 10:11:21 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected T_VARIABLE in /liz/editor/www/index2.php on line 33
+[Thu Jan 27 10:12:01 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected T_VARIABLE in /liz/editor/www/index2.php on line 33
+[Thu Jan 27 10:17:31 2011] [error] [client 193.52.216.130] PHP Parse error:  syntax error, unexpected T_VARIABLE in /liz/editor/www/index2.php on line 33
+[Thu Jan 27 10:21:08 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/ws/zclfo_2048
+[Thu Jan 27 10:22:09 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/ws/zclfo_2048
+[Thu Jan 27 10:22:11 2011] [error] [client 193.52.216.130] File does not exist: /liz/editor/www/ws/zclfo_2048
+[Thu Jan 27 10:23:17 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined offset:  1 in /liz/editor/www/ws/img.php on line 9
+[Thu Jan 27 10:23:22 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined offset:  1 in /liz/editor/www/ws/img.php on line 9
+[Thu Jan 27 16:36:01 2011] [error] [client 61.19.231.4] PHP Notice:  Undefined index:  bucket_id in /liz/editor/www/ws/search.php on line 36
+[Thu Jan 27 16:36:01 2011] [error] [client 61.19.231.4] PHP Notice:  Undefined index:  fields in /liz/editor/inc/php/ws_proc.inc.php on line 110
+[Thu Jan 27 16:36:01 2011] [error] [client 61.19.231.4] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/inc/php/ws_proc.inc.php on line 110
+[Thu Jan 27 16:36:03 2011] [error] [client 61.19.231.4] PHP Notice:  Undefined offset:  1 in /liz/editor/www/ws/img.php on line 9
+[Thu Jan 27 16:36:26 2011] [error] [client 61.19.231.4] PHP Notice:  Undefined index:  bucket_id in /liz/editor/www/ws/search.php on line 36
+[Thu Jan 27 16:36:26 2011] [error] [client 61.19.231.4] PHP Notice:  Undefined index:  fields in /liz/editor/inc/php/ws_proc.inc.php on line 110
+[Thu Jan 27 16:36:26 2011] [error] [client 61.19.231.4] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/inc/php/ws_proc.inc.php on line 110
+[Fri Jan 28 05:54:58 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Fri Jan 28 05:54:58 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Fri Jan 28 06:23:25 2011] [error] [client 66.249.72.82] File does not exist: /liz/editor/www/robots.txt
+[Fri Jan 28 22:19:30 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Fri Jan 28 22:19:31 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Sat Jan 29 10:04:52 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Sun Jan 30 03:40:14 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 20:43:16 2011] [error] [client 78.125.113.198] PHP Notice:  Undefined index:  text in /liz/editor/www/email/html.php on line 35
+[Sun Jan 30 20:59:28 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 20:59:28 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 20:59:41 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/ws/email
+[Sun Jan 30 20:59:57 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/ws/email
+[Sun Jan 30 21:00:09 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:09 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:15 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/ws/email
+[Sun Jan 30 21:00:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:40 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/ws/email
+[Sun Jan 30 21:01:52 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:01:52 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:01:57 2011] [error] [client 78.125.113.198] File does not exist: /liz/editor/www/ws/email
+[Mon Jan 31 06:05:34 2011] [error] [client 66.249.71.76] File does not exist: /liz/editor/www/robots.txt
+[Mon Jan 31 09:58:18 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Mon Jan 31 12:20:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Mon Jan 31 12:20:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Mon Jan 31 12:29:57 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/user.php on line 40, referer: https://wint.erti.me/login
+[Mon Jan 31 12:29:57 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: login_row in /liz/editor/www/ws/user.php on line 40, referer: https://wint.erti.me/login
+[Mon Jan 31 21:13:21 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Mon Jan 31 21:13:22 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Tue Feb 01 08:58:08 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Tue Feb 01 09:24:48 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Tue Feb 01 15:39:45 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Wed Feb 02 01:38:37 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Wed Feb 02 08:29:01 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined variable: bucket_arr in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:24 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/www/ws/doc.php on line 190, referer: https://wint.erti.me/ws/doc
+[Wed Feb 02 10:31:26 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined index:  bucket_id in /liz/editor/www/ws/search.php on line 36, referer: https://wint.erti.me/ws/doc?project_id=bbbbb&user_id=cpcyg&ws=search
+[Wed Feb 02 10:31:26 2011] [error] [client 193.52.216.130] PHP Notice:  Undefined index:  fields in /liz/editor/inc/php/ws_proc.inc.php on line 110, referer: https://wint.erti.me/ws/doc?project_id=bbbbb&user_id=cpcyg&ws=search
+[Wed Feb 02 10:31:26 2011] [error] [client 193.52.216.130] PHP Warning:  Invalid argument supplied for foreach() in /liz/editor/inc/php/ws_proc.inc.php on line 110, referer: https://wint.erti.me/ws/doc?project_id=bbbbb&user_id=cpcyg&ws=search
+[Thu Feb 03 06:08:43 2011] [error] [client 66.249.68.116] File does not exist: /liz/editor/www/robots.txt
+[Thu Feb 03 06:08:44 2011] [error] [client 66.249.68.116] File does not exist: /liz/editor/www/robots.txt
+[Fri Feb 04 09:49:43 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Fri Feb 04 09:49:44 2011] [error] [client 66.249.71.27] File does not exist: /liz/editor/www/robots.txt
+[Sun Feb 06 03:29:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?

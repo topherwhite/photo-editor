@@ -1,0 +1,37 @@
+body { background-color:#222222; font-family:arial, verdana; font-size:12px; }
+
+div#container { position:relative; width:100%; height:1px; margin-left:auto; margin-right:auto; top:1%; overflow:visible; border:none;
+				min-width:960px; width:expression(document.body.clientWidth < 960?"960px":"auto"); }
+
+table#bodytable { position:absolute; width:100%; height:auto; left:0px; top:0px; overflow:visible; border:none; }
+td#topbar { border:solid 1px red; height:50px; }
+td#leftbar { width:100px; border:solid 1px red; }
+td#midbody { border:solid 1px red; }
+td#rightbar { width:100px; border:solid 1px red;}
+
+a { color:#21368c; }
+a:hover { color:#919bc6; }
+
+
+div.upl_cont { position:relative; width:280px; height:24px; background-color:#dddddd; clear:left; margin:8px; border:none; }
+div.upl_cont img.upl_img { position:absolute; top:0px; left:30px; width:24px; height:24px; visibility:hidden; }
+div.upl_cont span.upl_msg { position:absolute; top:5px; left:60px; visibility:hidden; }
+div.upl_cont div.upl_cntr { position:absolute; top:5px; left:0px; width:20px; text-align:right; border:none; }
+form.upl_form {  }
+input.upl_file { position:absolute; top:0px; left:30px; cursor:pointer; }
+iframe.upl_targ { position:absolute; top:0px; left:0px; width:0px; height:0px; border:none; visibility:hidden; }
+
+table.login { position:relative; width:auto; margin:0px auto 0px auto; top:50px; left:0px; border:solid 2px #aaaaaa; background-color:white; border-radius:6px; -moz-border-radius:6px; }
+
+table.login td { border:none; }
+table.login input { font-family:arial, verdana; font-size:12px; }
+table.login td.pad { width:20px; border:none; }
+table.login td.footer { font-size:9px; padding:5px 30px 20px 30px; border:none; }
+table.login td.login_label { text-align:right; border:none; }
+/*table.login td.login_label label { position:relative; top:2px; }*/
+table.login td.login_input { text-align:left; border:none; }
+table.login td.login_input input { border:solid 1px gray; padding:3px 3px 3px 4px; width:210px; }
+table.login input#login_submit { cursor:pointer; padding:2px 4px 2px 4px; float:right; margin-right:12px; background-color:white; border:solid 1px gray; }
+table.login input#login_submit:hover { background-color:#dddddd; border:solid 1px black; }
+table.login td#login_msg { text-align:center; font-size:80%; font-weight:bold; }
+table.login td.login_header { text-align:center; }

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/141/trunk/www/inc/php
+END
+xml2array.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/127/trunk/www/inc/php/xml2array.inc.php
+END
+mysql_sess.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/inc/php/mysql_sess.inc.php
+END
+xml_clean.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/141/trunk/www/inc/php/xml_clean.inc.php
+END
+rand.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/127/trunk/www/inc/php/rand.inc.php
+END
+s3.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/127/trunk/www/inc/php/s3.inc.php
+END
+read_write.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/www/inc/php/read_write.inc.php
+END
+ws_queries.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/141/trunk/www/inc/php/ws_queries.inc.php
+END
+vars.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/141/trunk/www/inc/php/vars.inc.php
+END
+ws_proc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/141/trunk/www/inc/php/ws_proc.inc.php
+END

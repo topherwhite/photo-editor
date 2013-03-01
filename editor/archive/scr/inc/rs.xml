@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<img>
+	<size thmb="150" view="400" orig="0" work="480" />
+	<qual thmb="70" view="75" orig="75" work="75" />
+	<tble bttn_size="33" pad="10" per_row="7" num_rows="3" />
+	<rate>
+		<flat clr="222222" /><hovr clr="444444" />
+		<flat clr="aa5555" /><hovr clr="aa1111" />
+		<flat clr="5555aa" /><hovr clr="1111aa" />
+		<flat clr="aaaa55" /><hovr clr="aaaa11" />
+		<flat clr="55aaaa" /><hovr clr="11aaaa" />
+		<flat clr="55aa55" /><hovr clr="11aa11" />
+	</rate>
+	<chck>
+		<flat clr="000000" /><hovr clr="000000" />
+		<flat clr="00ff00" /><hovr clr="ff0000" />
+	</chck>		
+</img>

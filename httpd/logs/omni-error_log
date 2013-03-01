@@ -1,0 +1,33 @@
+[Thu Jan 13 22:56:03 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:56:03 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:57:37 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:57:37 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:59:43 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:59:43 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 22:59:58 2011] [error] [client 82.224.101.194] Directory index forbidden by Options directive: /liz/omni/
+[Thu Jan 13 22:59:59 2011] [error] [client 82.224.101.194] File does not exist: /liz/omni/favicon.ico
+[Thu Jan 13 23:01:14 2011] [error] [client 82.224.101.194] (13)Permission denied: Unable to create collection.  [403, #0]
+[Thu Jan 13 23:02:11 2011] [error] [client 82.224.101.194] (13)Permission denied: Unable to create collection.  [403, #0]
+[Thu Jan 13 23:02:20 2011] [error] [client 82.224.101.194] (13)Permission denied: Unable to create collection.  [403, #0]
+[Thu Jan 13 23:03:47 2011] [error] [client 82.224.101.194] (13)Permission denied: Unable to create collection.  [403, #0]
+[Thu Jan 13 23:05:58 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Thu Jan 13 23:05:58 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 16 03:33:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 03:03:47 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 03:03:47 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 03:40:11 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 05:25:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Wed Jan 19 05:25:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 23 03:07:11 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 03:40:14 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 20:59:28 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 20:59:28 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:09 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:09 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:00:22 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:01:52 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Jan 30 21:01:52 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Mon Jan 31 12:20:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Mon Jan 31 12:20:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
+[Sun Feb 06 03:29:10 2011] [warn] RSA server certificate CommonName (CN) `www.againstallodds.com' does NOT match server name!?
